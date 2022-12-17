@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KMF21
+- 👋 Hi, I’m Ikoojo Monday Joseph
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on a React.js/Next.js Project
