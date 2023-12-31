@@ -10,5 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 
 [![GitHub Streak](https://github-readme-streak-stats-ten-teal.vercel.app?user=KMF21&theme=blood&border_radius=3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-teal.vercel.app?user=KMF21&border_radius=3)](https://git.io/streak-stats)
 
 
