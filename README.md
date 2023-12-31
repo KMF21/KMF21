@@ -9,4 +9,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KMF21)](https://git.io/streak-stats)
